@@ -1,1 +1,4 @@
-making Bootstrap projects - Travery Media
+making Bootstrap projects - Traversy Media
+
+
+https://www.traversymedia.com/
